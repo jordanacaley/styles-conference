@@ -1,0 +1,1 @@
+In this project I build a website to practice new HTML and CSS skills.
